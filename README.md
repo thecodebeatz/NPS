@@ -6,4 +6,4 @@ In this notebook, I explore how NPS Error varies with changes in sample size and
 
 In other words, having 100 respondents for your NPS survey does not guarantee accurate results. If there is a high variance in the respondents' answers, the NPS score can be misleading and unreliable.
 
-![NPS Margin of Error by sample variance](https://codebeats.ml/posts%2Fnps-score-quality-over-quantity%2Fimg%2Fnps-error-vs-sample-size-and-variancepng)
+![NPS Error vs Sample Size and Variance](https://github.com/thecodebeatz/NPS/assets/46902643/0958fab6-f28e-4206-ad9d-646733b8bd16)
